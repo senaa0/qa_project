@@ -1,6 +1,6 @@
 # Web Trafik Loglarına Dayalı Yapay Zeka Destekli Soru-Cevap Sistemi
 
-## 1. Giriş
+## 1. Giriş 
 
 Bu proje, web trafik loglarına dayalı bir yapay zeka destekli soru-cevap(Q&A) sistemi geliştirmeyi amaçladım. Sistem, kullanıcıların doğal dilde sordukları sorulara, web trafik loglarından elde edilen verilerle yanıtlar üretmekte olmaktadır.
 
