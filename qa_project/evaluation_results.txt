@@ -1,0 +1,1 @@
+Değerlendirme Sonuçları: {'eval_loss': 0.001067389384843409, 'eval_runtime': 191.5353, 'eval_samples_per_second': 1.044, 'eval_steps_per_second': 0.261, 'epoch': 3.0}

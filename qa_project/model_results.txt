@@ -1,0 +1,5 @@
+Değerlendirme Sonuçları:
+Sorgu: En çok ziyaret edilen sayfa hangisi?
+Girdi Metni: Based on these logs: POST http://www.gilbert.com/ HTTP/1.1 POST https://nguyen.net/ HTTP/1.1 POST http://www.wong-ochoa.com/ HTTP/1.1 POST http://www.cortez.com/ HTTP/1.1 POST http://king-cook.biz/ HTTP/1.1. Answer the following question: En çok ziyaret edilen sayfa hangisi?
+Yanıt: the following question: En çok ziyaret edilen sayfa hangisi?
+
